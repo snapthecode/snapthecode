@@ -15,9 +15,10 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-6DB33F?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)&nbsp;
-![Aws](https://img.shields.io/badge/Aws-05122A?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![Gcp](https://img.shields.io/badge/Gcp-05122A?style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![Aws](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![Gcp](https://img.shields.io/badge/GCP-05122A?style=flat&logo=googlecloud&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Centos](https://img.shields.io/badge/centos-05122A?style=flat&logo=centos&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
