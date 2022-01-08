@@ -7,7 +7,7 @@
 ## 👋 &nbsp;웹 서비스 개발에 처음 발을 내딛는 신입개발자입니다. 
 
 - 언어는 도구일 뿐, 특정 언어에 종속되지 않고 도구로써 자유자재로 사용 하고 싶습니다
-- 관심있는 언어 : Spring Framework, Node, Vue, SQL <br/>
+- 관심있는 언어 : Spring Framework, Node, Vue, SQL, Python <br/>
 
 
 ## 🛠 &nbsp;Technical Skills
