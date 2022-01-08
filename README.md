@@ -15,7 +15,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-6DB33F?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)&nbsp;
 ![Aws](https://img.shields.io/badge/AmazonAws-05122A?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![Gcp](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=googlecloud&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
