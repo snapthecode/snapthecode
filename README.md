@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=도전하는%20개발자&fontSize=90&animation=scaleIn)
 
-  
+# [자기소개 사이트](https://snapthecode.github.io/CV2/)
 ## 👋 &nbsp;웹 서비스 개발에 처음 발을 내딛는 신입개발자입니다. 
 
 - 언어는 도구일 뿐, 특정 언어에 종속되지 않고 도구로써 자유자재로 사용 하고 싶습니다
